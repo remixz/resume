@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Zach Bruggeman",
+    "label": "Web Developer, Righteous Dude",
+    "picture": "http://gravatar.com/avatar/ba5d2bf50500f506fab6beab1c216612?s=512",
+    "email": "mail@bruggie.com",
+    "website": "http://zachbruggeman.me",
+    "summary": "Zach Bruggeman is a web developer. He also created Dogescript. He's 16 years old, and probably shouldn't be worrying about a resumé yet. He's a righteous dude.",
+    "location": {
+      "city": "West Kelowna",
+      "countryCode": "CA",
+      "region": "British Columbia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "zachbruggeman",
+        "url": "https://twitter.com/zachbruggeman"
+      },
+      {
+        "network": "GitHub",
+        "username": "remixz",
+        "url": "https://github.com/remixz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "DIY",
+      "position": "Web Developer",
+      "website": "https://diy.org",
+      "startDate": "2012-08-07",
+      "summary": "Starting off as an apprentice, I've worked on many different projects at DIY, from our front-end, to internal tools, to our API.",
+      "highlights": [
+        "Helped get many ideas from concepts to something shippable in just a few days time.",
+        "Spoke on NodeUp (#49) about how we use Node at DIY.",
+        "Managed to get a kicking job while still in high school."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "LESS",
+        "Browserify",
+        "Handlebars",
+        "Ampersand.js"
+      ]
+    },
+    {
+      "name": "Back-end Development",
+      "keywords": [
+        "Node.js",
+        "MySQL",
+        "AWS",
+        "Restify",
+        "Redis",
+        "Socket.io"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Speaking",
+      "keywords": [
+        "CascadiaJS 2013 - Righteous JavaScript, Dude!",
+        "Hopefully more soon. ;-)"
+      ]
+    },
+    {
+      "name": "Bad Photoshopping",
+      "keywords": [
+        "Ask my friends."
+      ]
+    }
+  ]
+}
