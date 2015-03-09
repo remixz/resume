@@ -26,6 +26,13 @@
   },
   "work": [
     {
+      "company": "NodeSource",
+      "position": "Web Developer",
+      "website": "https://nodesource.com",
+      "startDate": "2015-01-11",
+      "summary": "Developer on the front-end of our flagship product, N|Ship."
+    },
+    {
       "company": "DIY",
       "position": "Web Developer",
       "website": "https://diy.org",
@@ -36,8 +43,7 @@
         "Helped get many ideas from concepts to something shippable in just a few days time.",
         "Wrote multiple iterations of the internal tool used to approve kids' projects.",
         "Ran the site's Minecraft server, and helped other kids start their own.",
-        "Spoke on NodeUp #49 about how we used Node.js at DIY.",
-        "Managed to get a kicking job while still in high school."
+        "Spoke on NodeUp #49 about how we used Node.js at DIY."
       ]
     }
   ],
